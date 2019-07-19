@@ -1,0 +1,29 @@
+.navbar {
+    background-color: white;
+    height: 100px;
+    color: white;
+}
+
+li {
+    color: black;
+    opacity: .6;
+}
+
+h1 {
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+li {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+a {
+    color: black;
+}
+
+h2 {
+    color: black;
+    font-family: 'Noto Sans JP', sans-serif;
+    opacity: .6;
+}

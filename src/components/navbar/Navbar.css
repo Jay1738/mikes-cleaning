@@ -1,0 +1,46 @@
+.navbar {
+    width: 100%;
+    box-shadow: 0px 13px 41px 30px rgba(0,0,0,0.21);
+}
+
+.navbar img {
+    height: 100%;
+    margin-left: 15%;
+    float: left;
+    width: 100px !important;
+}
+li {
+    float: left;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.menu-container {
+    float: right;
+    padding-top: 15px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.name-container {
+    float: left;
+    padding-left: 20px;
+}
+
+h1 {
+    margin: 0px;
+    padding-top: 16px;
+}
+
+h2 {
+    font-size: 15px;
+    margin: 0px;
+
+}
