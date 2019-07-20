@@ -9,8 +9,8 @@ export default class Navbar extends Component {
                 <div className="navbar">
                     <img src={earth} alt="Logo"/>
                     <div className="name-container">
-                        <h1>Micheal's Cleaning</h1>
-                        <h2>Enviromentally Friendly Cleaning Services</h2>
+                        <h1>Michael's Commercial Cleaning</h1>
+                        <h2>Professional Cleaning Services and Floor Waxing</h2>
                     </div>
                     <div className="menu-container">
                         <ul>
