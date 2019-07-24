@@ -13,7 +13,7 @@ export default class BotNav extends Component {
                         <button>Click Here</button>
                     </div>
                     <div className="number">
-                        <h1><span><FontAwesomeIcon className="fa-flip-horizontal" icon={faPhone} /></span>(732) 363-6490</h1>
+                        <h1>(732) 363-6490</h1>
                     </div>
                     <div className="copyright">
                     <h3>

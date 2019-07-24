@@ -1,0 +1,41 @@
+.container {
+    height: 180px;
+    width: 100%;
+    background-image: url('../images/window.jpeg');
+    background-position-y: 45%;
+}
+
+.blue {
+    height: 180px;
+    width: 75%;
+    opacity: .2;
+    background-color:  blue;
+    position: absolute;
+    z-index: 1;
+}
+
+.title-container {
+    width: 100%;
+    float: left;
+}
+
+#title {
+    position: relative;
+    color: white;
+    font-size: 60px;
+    z-index: 2;
+    width: 25%;
+    float: left;
+    text-align: center;
+    margin-top: 35px;
+    letter-spacing: 5px;
+}
+
+.call-us-container {
+    background-color: red;
+    width: 500px;;
+    height: 180px;
+    z-index: 2;
+    position: relative;
+    float: right;
+}
